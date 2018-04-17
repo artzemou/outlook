@@ -1,0 +1,318 @@
+
+
+.WindowCapture__container{
+  transform: rotate3d(1,1,1,5deg) scale(0) translate3d(-300px, 100px, 0);
+  transition: transform 500ms ease;
+  color:#333333;
+  position: absolute;
+  bottom:2rem;
+  background: #f2f2f2;
+  border-radius: 8px;
+  overflow: hidden;
+  transform-origin: bottom left;
+  left:0;
+  right:0;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 20px rgba(0,0,0,0.23)
+}
+
+.WindowCapture__heading{
+  padding: 14px;
+  background: #ffffff;
+  color: #333333;
+  position: relative;
+}
+.accueil .img__legend li .WindowCapture__heading span {
+    width: auto;
+}
+.WindowCapture__heading .close {
+    background: transparent;
+    border: 0;
+    color: #333333;
+    float: right;
+    cursor: pointer;
+}
+.WindowCapture__body{
+  min-height: 300px;
+}
+
+.WindowCapture__container img{
+  display:block;
+}
+.WindowCapture__container.open{
+  transform: rotate3d(1,1,1,5deg) scale(.8) translate3d(-300px, 100px, 0);
+}
+
+/**********************************************/
+.AloHector .WindowCapture__heading{
+    background: #f39c12;
+    color:#ffffff;
+}
+
+.AloHector .WindowCapture__heading .close{
+    color:#ffffff;
+}
+
+.AloHector .WindowCapture__container{
+  border:1px solid #f39c12;
+}
+/***********************************************************/
+.OpEnCours .WindowCapture__container.open{
+  transform: rotate3d(1,1,1,5deg) scale(.8) translate3d(350px, 100px, 0);
+}
+
+.Vue360 .WindowCapture__container{
+  width: 1000px;
+  max-height: 699px;
+}
+
+.Vue360 .WindowCapture__container.open{
+  transform: rotate3d(-1.1,1,1,5deg) scale(.5) translate3d(-300px, 1000px, 0);
+  z-index: 10;
+}
+
+.Vue360 .WindowCapture__container .WindowCapture__heading{
+  display:none;
+}
+
+.Vue360 .WindowCapture__container.open iframe{
+  width: 1000px;
+  height: 800px;
+}
+
+.Synchro .WindowCapture__container.open{
+  transform: rotate3d(1,1,1,5deg) scale(.8) translate3d(-300px, 300px, 0);
+}
+
+.CA .WindowCapture__container{
+  width: 500px;
+
+}
+
+.CA .WindowCapture__container.open{
+  transform: rotate3d(1,1,1,-5deg) scale(1) translate3d(0 , -200px, 0);
+}
+
+.CA .WindowCapture__container .diagram>div{
+  background: #ac94c6;
+  position: absolute;
+  bottom: 0;
+  z-index: 100;
+  height: 0;
+  width: 33px;
+  transition: all 1000ms ease-in;
+}
+.CA .WindowCapture__container .diagram>div:first-child{
+  bottom: 65px;
+  left: 49.5px;
+}
+.CA .WindowCapture__container.open .diagram>div:first-child{
+  height:50px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(2){
+  bottom: 65px;
+  left: 87px;
+  animation-delay: 10ms;
+}
+
+.CA .WindowCapture__container.open .diagram>div:nth-child(2){
+  height:80px;
+}
+
+.CA .WindowCapture__container .diagram>div:nth-child(3){
+  bottom: 65px;
+  left: 124px;
+  animation-delay: 200ms;
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(3){
+  height:150px;
+}
+
+.CA .WindowCapture__container .diagram>div:nth-child(4){
+  bottom: 65px;
+  left: 161px;
+  animation-delay: 300ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(4){
+  height:120px;
+}
+
+.CA .WindowCapture__container .diagram>div:nth-child(5){
+  bottom: 65px;
+  left: 198px;
+  animation-delay: 400ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(5){
+  height:90px;
+}
+
+.CA .WindowCapture__container .diagram>div:nth-child(6){
+  bottom: 65px;
+  left: 235px;
+  animation-delay: 500ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(6){
+  height:105px;
+}
+
+.CA .WindowCapture__container .diagram>div:nth-child(7){
+  bottom: 65px;
+  left: 272px;
+  animation-delay: 600ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(7){
+  height:55px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(8){
+  bottom: 65px;
+  left: 309px;
+  animation-delay: 700ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(8){
+  height:35px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(9){
+  bottom: 65px;
+  left: 346px;
+  animation-delay: 800ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(9){
+  height:70px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(10){
+  bottom: 65px;
+  left: 383px;
+  animation-delay: 900ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(10){
+  height:120px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(11){
+  bottom: 65px;
+  left: 420px;
+  animation-delay: 1000ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(11){
+  height:80px;
+}
+.CA .WindowCapture__container .diagram>div:nth-child(12){
+  bottom: 65px;
+  left: 457px;
+  animation-delay: 1100ms;
+
+}
+.CA .WindowCapture__container.open .diagram>div:nth-child(12){
+  height:100px;
+}
+
+
+
+
+
+
+/*capture home*/
+.accueil .img__legend{
+
+}
+
+.accueil .img__legend li{
+    position: absolute;
+    /* position: relative; */
+    text-align: center;
+    font-size: 1.2rem;
+    color: #193f5e;
+    font-weight: bold;
+    z-index: 1;
+    transform-origin: left top;
+    /* max-width: 300px; */
+}
+
+.accueil .img__legend li.focused{
+  z-index: 10;
+}
+.accueil .img__legend li span{
+  display: inline-block;
+  width: 250px;
+}
+
+.accueil .img__legend li:hover span{
+  /* animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both; */
+}
+
+.accueil .img__legend li img{
+  position: absolute;
+  max-width: 100%;
+}
+
+.accueil .img__legend li:nth-child(1){
+      left: 15%;
+      top:25%;
+}
+
+.accueil .img__legend li:nth-child(1) .arrow{
+
+  top: 120%;
+  left: 50%;
+
+}
+
+.accueil .img__legend li:nth-child(2){
+  top:2%;
+  left: 40%;
+
+
+}
+/* .accueil .img__legend li:nth-child(2).focused{
+  transition: transform 500ms ease-in;
+  transform: scale(1.083) translate3d(-300px, -9.36px, 0px) !important;
+} */
+
+.accueil .img__legend li:nth-child(2) .arrow{
+
+  top: 150%;
+  left: 45%;
+  transform: rotate(13deg);
+  transform-origin: top;
+}
+
+.accueil .img__legend li:nth-child(3){
+  top:10%;
+  left: 70%;
+
+}
+
+.accueil .img__legend li:nth-child(3) .arrow{
+  left: 0;
+  top: 120%;
+}
+
+.accueil .img__legend li:nth-child(4){
+  top:50%;
+  left: 75%;
+
+}
+
+.accueil .img__legend li:nth-child(4) .arrow{
+  left: -30%;
+  top: 100%;
+}
+
+.accueil .img__legend li:nth-child(5){
+  top:82%;
+  left: 30%;
+
+}
+
+.accueil .img__legend li:nth-child(5) .arrow{
+  left: 45%;
+  top: -175%;
+  transform: rotate(-10deg);
+  transform-origin: top;
+}

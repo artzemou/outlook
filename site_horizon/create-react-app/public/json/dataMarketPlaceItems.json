@@ -1,0 +1,791 @@
+[{
+    "<!--": "*********************************************************************",
+    "title":"EBP<br/>VIREMENT DIRECT",
+    "description":"Pour réaliser vos virements bancaires",
+    "connected":false,
+	"disponible":true,
+    "src":"img/marketplace/LOGOS/logo_EBPVIREMENTDIRECT_GRIS_200x80.jpg",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Virement direct c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Réalisez vos virements depuis EBP Horizon ",
+                "innerText":"Une application connectable à la plateforme EBP Horizon pour réaliser vos virements bancaires."
+              },
+              {
+                "title":"Réglez vos factures fournisseurs ",
+                "innerText":"Une solution simple pour régler vos factures fournisseurs : virements bancaires automatisés."
+              },
+              {
+                "title":"Payez en toute sécurité ",
+                "innerText":"Un paiement bancaire entièrement sécurisé, respectant les exigences de la CNIL : données chiffrées et cryptées."
+              },
+              {
+                "title":"Ne perdez plus votre temps ",
+                "innerText":"Une mise en place rapide : renseignez simplement les coordonnées bancaires de vos fournisseurs."
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/EBP-virement-direct/1.Règlement_par_virement_ajout_bénéficiaire_1.jpg",
+                "legend":"Sélectionnez le moyen de paiement EBP Virement Direct afin d’effectuer le virement pour votre fournisseur."
+              },
+              {
+                "src":"img/capture/EBP-virement-direct/3.Règlement_par_virement_confirmation.jpg",
+                "legend":"Saisissez le code de connexion au site bancaire afin de confirmer le virement. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP Virement Direct",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/securite.png",
+                "innerText":"Sécurité"
+              },
+              {
+                "picto":"img/marketplace/pictos/gain-de-temps.png",
+                "innerText":"Gain de temps"
+              },
+              {
+                "picto":"img/marketplace/pictos/efficacite.png",
+                "innerText":"Efficacité"
+              },
+              {
+                "picto":"img/marketplace/pictos/simplicite.png",
+                "innerText":"Simplicité"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"<span>EBP Virement Direct est une application gratuite pour 15 virements par mois maximum.</span>"
+              },
+              {
+                "className":"price__container",
+                "innerText":"<span class=\"centrer\">GRATUIT</span>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur  français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les TPE et PME depuis 1984. Nos solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. De 9h à 18h30 (18h le vendredi) – (horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : <a style=\"color:#999999\" href=\"mailto:assistance.fr@ebp.com\">assistance.fr@ebp.com</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Comment accéder à EBP Virement Direct  ?  ",
+        "className":"utilisation",
+        "domElements":[
+          {
+            "title":"",
+            "elementol":[
+                {
+                  "innerText":"Vous devez être client EBP Horizon OPEN "
+                },
+                {
+                  "innerText":"<a onClick=\"ga('send', 'event', {eventCategory: 'H-Store', eventAction: 'click', eventLabel: event.target.href});\" target='_blank' href='https://horizonapps.ebp.com/Try/?code=10243001FAA'>Accédez</a> à l’abonnement OPEN en le testant gratuitement pendant 30 jours"
+                },
+                {
+                  "innerText":"Ensuite, abonnez-vous à EBP Horizon OPEN depuis votre plateforme, cliquez sur « S’abonner »  en haut à droite"
+                },
+                {
+                  "innerText":"Une fois client OPEN, souscrivez à l’application depuis la plateforme EBP Horizon"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"CREANCYS-EBP",
+    "description":"Pour relancer vos clients",
+    "connected":false,
+	  "disponible":true,
+    "src":"img/marketplace/LOGOS/logo_CREANSOFT_200x80.jpg",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"CREANCYS-EBP c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Déclarez simplement un impayé",
+                "innerText":"En quelques clics, choisissez la facture à relancer. Le scénario de relance le plus approprié, selon le montant de l’impayé, se déclenche. Le descriptif et le tarif du scénario sont consultables à tout moment."
+              },
+              {
+                "title":"Contrôlez simplement votre trésorerie",
+                "innerText":"Les flux sont automatisés, aucune saisie manuelle n’est nécessaire. Décidez en un simple coup d’œil de lancer vos actions de relance. Optimisez votre trésorerie en diminuant les délais de règlements de vos clients, ainsi réduisez votre DSO. "
+              },
+              {
+                "title":"Accédez à la synthèse des actions",
+                "innerText":"Depuis EBP Horizon, visualisez en temps réel l’état des actions et le niveau d’encaissement des relances. Avec cette synthèse, mesurez l’impact de CREANCYS-EBP sur la vitesse et le taux d’encaissement.  "
+              },
+              {
+                "title":"Une gestion automatique des scénarios de relance ",
+                "innerText":"CREANCYS-EBP s’occupe de tout ! Bénéficiez de notre expertise : cadence des relances, texte des courriers, envoi des emails ou courriers en fonction du scénario. Tant que l’impayé n’est pas réglé, le scénario de relance est maintenu en automatique. L’annulation unilatérale est également possible."
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/CREANCYS/1.jpg",
+                "legend":"Sélectionnez, directement depuis l’Echéancier, vos factures à relancer."
+              },
+              {
+                "src":"img/capture/CREANCYS/2.jpg",
+                "legend":"Choisissez le type de relance Créancys-EBP."
+              },
+              {
+                "src":"img/capture/CREANCYS/3.jpg",
+                "legend":"Saisissez vos informations de facturation dans votre espace de règlement Créancys-EBP. Le montant à régler s’affiche automatiquement."
+              },
+              {
+                "src":"img/capture/CREANCYS/4.jpg",
+                "legend":"Une fois l’opération réussie, visualisez la mise à jour automatique du statut de votre échéance : l’information « une prise en charge Créancys-EBP » s’affiche."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages de CREANCYS-EBP",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/simplicite.png",
+                "innerText":"Simplicité"
+              },
+				{
+                "picto":"img/marketplace/pictos/efficacite.png",
+                "innerText":"Efficacité"
+              },
+				{
+                "picto":"img/marketplace/pictos/serenite.png",
+                "innerText":"Sérénité"
+              },
+				{
+                "picto":"img/marketplace/pictos/economique.png",
+                "innerText":"Economique"
+              }
+
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"item__captures",
+                "element":[
+                  {
+                    "src":"img/capture/CREANCYS/price.png"
+                  }
+                ]
+              },
+              {
+                "className":"price__container",
+                "innerText":"<span>&Agrave; partir de 9.90 € HT</span>"
+              }
+
+
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "quidescription":"",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"CREANSOFT est une société née de la volonté de faire partager à tous les professionnels du recouvrement une vision nouvelle, permettant la mise en œuvre d'écosystèmes innovants au service de la gestion des impayés. Filiale de l’ADEC, CREANSOFT se positionne comme une LegalTech. Le groupe ADEC, c’est :<br/><ul><li>+30 collaborateurs répartis sur 3 sites : Paris, Lyon & Montpellier.</li><li>Un acteur incontournable de l’industrie du recouvrement pour les huissiers de Justice.</li><li>Le partenaire IT des Huissiers de Justice et des sociétés de recouvrement.<br>Notre vision est d’être le référent technologique de la chaîne « Order to Cash » au travers d’une suite logicielle innovante.</li></ul>Pour en savoir plus, retrouvez nous sur <a target='_blank' href='http://www.creansoft.fr'>www.creansoft.fr</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. De 9h à 18h30 (18h le vendredi) – (horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : <a style=\"color:#999999\" href=\"mailto:assistance.fr@ebp.com\">assistance.fr@ebp.com</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Comment accéder à CREANCYS–EBP  ?  ",
+        "className":"utilisation",
+        "domElements":[
+          {
+            "title":"",
+            "elementol":[
+                {
+                  "innerText":"Vous devez être client EBP Horizon OPEN "
+                },
+                {
+                  "innerText":"<a onClick=\"ga('send', 'event', {eventCategory: 'H-Store', eventAction: 'click', eventLabel: event.target.href});\" target='_blank' href='https://horizonapps.ebp.com/Try/?code=10243001FAA'>Accédez</a> à l’abonnement OPEN en le testant gratuitement pendant 30 jours"
+                },
+                {
+                  "innerText":"Ensuite, abonnez-vous à EBP Horizon OPEN depuis votre plateforme, cliquez sur « S’abonner »  en haut à droite"
+                },
+                {
+                  "innerText":"Une fois client OPEN, souscrivez à l’application depuis la plateforme EBP Horizon"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"GOCARDLESS",
+    "description":"Pour prélever vos clients",
+    "connected":false,
+	  "disponible":true,
+    "src":"img/marketplace/LOGOS/logo_GOCARDLESS_200x80.jpg",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"GOCARDLESS c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+
+              {
+                "title":"Gérez vos prélèvements en ligne",
+                "innerText":"GoCardless s’adresse aux entreprises qui utilisent le prélèvement automatique SEPA comme moyen de règlement<b>*</b> comme à celles qui souhaitent y accéder pour la première fois."
+              },
+              {
+                "title":"Ajoutez vos mandats en quelques clics",
+                "innerText":"Avec GoCardless, vous pouvez obtenir une autorisation de prélèvement par voie électronique via l’envoi d’emails, ou en faisant remplir un mandat de prélèvement papier par votre client."
+              },
+              {
+                "title":"Collectez automatiquement vos paiements",
+                "innerText":"Une fois GoCardless activé, les échéances prévues par prélèvement seront automatiquement envoyées pour être traitées."
+              },
+				      {
+                "title":"Facilitez votre rapprochement bancaire",
+                "innerText":"Une fois les demandes de prélèvement envoyées, GoCardless vous transmettra leurs statuts que vous pourrez suivre depuis l’échéancier. Les prélèvements confirmés solderont automatiquement les factures correspondantes, et les versements apparaitront sur votre compte bancaire.</br></br><b>*Migration de mandats </b></br> Si vous utilisez déjà le prélèvement par l’intermédiaire d’un autre prestataire, il n’est pas nécessaire de redemander une autorisation de prélèvement à vos clients. Pour migrer vos mandats vers GoCardless, suivez notre guide <a target='_blank' href='https://support.gocardless.com/hc/fr/articles/115003187509-Transfert-SEPA-EUR'>ici</a> . Vous pourrez ensuite associer les mandats migrés à vos clients dans EBP Horizon, dans le menu Paramètres > Paramétrage des modules > Rapprochement des clients GoCardless."
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/GOCARDLESS/Impression_ecran2.jpg",
+                "legend":"Sélectionnez le moyen de paiement « prélèvement »  lors de la création de la facture."
+              },
+              {
+                "src":"img/capture/GOCARDLESS/Impression_ecran3.jpg",
+                "legend":"Visualisez le statut des échéances de vos factures de vente : « régler », « en attente de création d’un mandat SEPA », « prélèvement échoué », etc. "
+              },
+              {
+                "src":"img/capture/GOCARDLESS/Impression_ecran1.jpg",
+                "legend":"Retrouvez le prélèvement de votre client directement sur votre compte bancaire, l’opération est affectée automatiquement. "
+              },
+              {
+                "src":"img/capture/GOCARDLESS/Impression_ecran4.jpg",
+                "legend":"Retrouvez votre opération bancaire générée automatiquement en écriture comptable."
+              }
+
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages de GOCARDLESS",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/gain-de-temps.png",
+                "innerText":"Gain de temps"
+              },
+              {
+                "picto":"img/marketplace/pictos/automatise.png",
+                "innerText":"Automatisation"
+              },
+              {
+                "picto":"img/marketplace/pictos/controle.png",
+                "innerText":"Contrôle"
+              },
+              {
+                "picto":"img/marketplace/pictos/dematerialisation.png",
+                "innerText":"Dématérialisation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Nos commissions de 1% concernent exclusivement les prélèvements réussis et comportent un seuil à 20 centimes et un plafond à 2 Euros. Si vous souhaitez afficher le nom de votre société dans l’intitulé du paiement vous pouvez souscrire à l’offre Plus à 50€HT/mois."
+              },
+              {
+                "className":"price__container",
+                "innerText":"<span class=\"centrer\">SUR COMMISSION</span>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Avec 30.000 clients et plus de 5 milliards d’Euros de volume de transactions, GoCardless est le prestataire de prélèvement leader en Europe. Le module GoCardless vous permet de centraliser l'intégralité de votre cycle de vente, de la prospection jusqu’au paiement. Vous économisez ainsi le travail administratif lié à la gestion de vos règlements et au rapprochement comptable. Temps que vous pouvez réinvestir sur votre coeur d’activité."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : <a href='mailto:assistance.fr@ebp.com' style='color:#999999'>assistance.fr@ebp.com</a><br/>Consultez aussi la FAQ de GoCardless: <a target='_blank' href='https://support.gocardless.com/hc/fr'>ici</a> (catégorie « Intégrations »)<br/>Contactez également l’assistance GoCardless : <a style='color:#999999' href='mailto:france@gocardless.com'>france@gocardless.com</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Comment accéder à GoCardless ?  ",
+        "className":"utilisation",
+        "domElements":[
+          {
+            "title":"En 4 étapes :",
+            "elementol":[
+                {
+                  "innerText":"Vous devez être client EBP Horizon OPEN "
+                },
+                {
+                  "innerText":"onClick=\"ga('send', 'event', {eventCategory: 'H-Store', eventAction: 'click', eventLabel: event.target.href});\" <a target='_blank' href='https://horizonapps.ebp.com/Try/?code=10243001FAA'>Accédez</a> à l’abonnement OPEN en le testant gratuitement pendant 30 jours"
+                },
+                {
+                  "innerText":"Ensuite, abonnez-vous à EBP Horizon OPEN depuis votre plateforme, cliquez sur « S’abonner »  en haut à droite"
+                },
+                {
+                  "innerText":"Une fois client OPEN, souscrivez à l’application depuis la plateforme EBP Horizon"
+                }
+            ]
+          }
+        ]
+      }
+
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"ANYTIME",
+    "description":"Pour gérer vos notes de frais",
+    "connected":false,
+	"disponible":true,
+    "src":"img/marketplace/LOGOS/logo_anytime_blutxt_200x80.jpg",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"Anytime c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Une solution 2 en 1",
+                "innerText":"Anytime est une application combinant la gestion de notes de frais avec des cartes MasterCard pour régler vos dépenses."
+              },
+              {
+                "title":"Un outil de reporting en temps réel",
+                "innerText":"Contrôlez les frais de la société en sachant comment l’argent est dépensé et par qui."
+              },
+              {
+                "title":"Un budget maîtrisé",
+                "innerText":"Vos collaborateurs ne peuvent pas dépasser le plafond autorisé que vous avez défini."
+              },
+              {
+                "title":"Tout est automatique",
+                "innerText":"A chaque transaction sont associés un justificatif dématérialisé (facture, …), un montant de TVA et un commentaire, le tout est intégré sur votre plateforme EBP Horizon."
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/anytime/1.jpg"
+              },
+              {
+                "src":"img/capture/anytime/2.jpg"
+              },
+              {
+                "src":"img/capture/anytime/3.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'Anytime",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/innovation.png",
+                "innerText":"Innovant"
+              },
+              {
+                "picto":"img/marketplace/pictos/unique.png",
+                "innerText":"Unique"
+              },
+              {
+                "picto":"img/marketplace/pictos/rapidite.png",
+                "innerText":"Rapide"
+              },
+              {
+                "picto":"img/marketplace/pictos/securite.png",
+                "innerText":"Sécurisé"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Abonnement annuel payant selon le nombre de collaborateur "
+              },
+              {
+                "className":"price__container",
+                "innerText":"<span>&Agrave; partir de 50 € HT</span>"
+              }
+
+
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Créé en 2014, Anytime a pour mission de révolutionner l’accès aux services bancaires, en permettant à chaque entreprenant de disposer d’une offre bancaire flexible, sans contraintes, accompagnée d’une large gamme de services. Anytime répond aux différents besoins des professionnels notamment les auto-entrepreneurs, les startups, les indépendants, les artisans, les professions libérales, les PME ou les associations. Chacun y trouve son compte ! Anytime leur permet de consulter et gérer leurs notes de frais et ainsi de disposer de leur argent any time, any where, on any device. <a style=\"color:#999999\" target=\"_blank\" href=\"https://www.anyti.me\">www.anyti.me</a> "
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"",
+            "element":[
+				{
+                "innerText":"Contactez l’Assistance téléphonique EBP :<br ><ul><li>Par téléphone : 01 34 94 80 20. De 9h à 18h30 (18h le vendredi) – (horaires modulables selon l'activité)</li><li>Par mail : <a style=\"color:#999999\" href=\"mailto:assistance.fr@ebp.com\">assistance.fr@ebp.com</a></li></ul>"
+              },
+              {
+                "innerText":"Contactez l’Assistance ANYTIME :<br ><ul><li>Par téléphone, au 01 73 600 633</li><li>Par mail : <a style=\"color:#999999\" href=\"mailto:partenariat@anyti.me\">partenariat@anyti.me</a></li></ul>"
+              }
+            ]
+
+          }
+        ]
+      },
+      {
+        "title":"Comment accéder à Anytime ?  ",
+        "className":"utilisation",
+        "domElements":[
+          {
+            "title":"",
+            "elementol":[
+                {
+                  "innerText":"Vous devez être client EBP Horizon OPEN "
+                },
+                {
+                  "innerText":"<a onClick=\"ga('send', 'event', {eventCategory: 'H-Store', eventAction: 'click', eventLabel: event.target.href});\" target='_blank' href='https://horizonapps.ebp.com/Try/?code=10243001FAA'>Accédez</a> à l’abonnement OPEN en le testant gratuitement pendant 30 jours"
+                },
+                {
+                  "innerText":"Ensuite, abonnez-vous à EBP Horizon OPEN depuis votre plateforme, cliquez sur « S’abonner »  en haut à droite"
+                },
+                {
+                  "innerText":"Une fois client OPEN, souscrivez à l’application depuis la plateforme EBP Horizon"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"FEC-EXPERT",
+    "description":"Pour contrôler le fichier des Écritures Comptables",
+    "connected":false,
+	"disponible":true,
+    "src":"img/marketplace/LOGOS/logo_FEC_200x80.jpg",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"FEC-EXPERT, c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Générez un diagnostic de votre FEC",
+                "innerText":"Une application connectable à EBP Horizon pour analyser votre FEC (Fichier des Ecritures Comptables)."
+              },
+              {
+                "title":"Bénéficiez d’une vision globale sur l’état de votre FEC",
+                "innerText":"Détection d’éventuelles anomalies des points de contrôle de votre FEC."
+              },
+              {
+                "title":"Anticipez un contrôle fiscal",
+                "innerText":"Une gestion simplifiée d’un contrôle fiscal grâce à l’identification des points d’alerte comptables et fiscaux."
+              },
+              {
+                "title":"Evitez une amende de 5 000 €",
+                "innerText":"Un outil pour sécuriser et vérifier la conformité de votre comptabilité."
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+
+              {
+                "src":"img/capture/FEC/Capture_1.jpg",
+                "legend":"Je choisis de contrôler mon FEC avec FEC Expert"
+              },
+              {
+                "src":"img/capture/FEC/Capture_2.jpg",
+                "legend":"Je prends connaissance de l’analyse FEC Expert "
+              },
+              {
+                "src":"img/capture/FEC/Capture_3.jpg",
+                "legend":"Je vérifie les anomalies éventuelles de mon FEC selon les points de contrôle"
+              },
+              {
+                "src":"img/capture/FEC/Capture_4.jpg",
+                "legend":"Je vérifie les anomalies éventuelles de mon FEC selon les points de contrôle "
+              },
+              {
+                "src":"img/capture/FEC/Capture_5.jpg",
+                "legend":"Je vérifie les anomalies éventuelles de mon FEC selon les points de contrôle "
+              },
+              {
+                "src":"img/capture/FEC/Capture_6.jpg",
+                "legend":"Je vérifie les anomalies éventuelles de mon FEC selon les points de contrôle "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages de FEC-EXPERT",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/gain-de-temps.png",
+                "innerText":"Gain de temps"
+              },
+              {
+                "picto":"img/marketplace/pictos/visibilite.png",
+                "innerText":"Visibilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/serenite.png",
+                "innerText":"Sérénité"
+              },
+              {
+                "picto":"img/marketplace/pictos/securite.png",
+                "innerText":"Sécurité"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Le FEC Expert est une application 100% gratuite"
+              },
+              {
+                "className":"price__container",
+                "innerText":"<span>Application gratuite</span>"
+              },
+              {
+                "className":"picto",
+                "picto":"",
+                "innerText":""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur  français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les TPE et PME depuis 1984. Nos solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. De 9h à 18h30 (18h le vendredi) – (horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : <a style=\"color:#999999\" href=\"mailto:assistance.fr@ebp.com\">assistance.fr@ebp.com</a>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Comment accéder à FEC-EXPERT ?  ",
+        "className":"utilisation",
+        "domElements":[
+          {
+            "title":"",
+            "elementol":[
+                {
+                  "innerText":"Vous devez être client EBP Horizon OPEN "
+                },
+                {
+                  "innerText":"<a onClick=\"ga('send', 'event', {eventCategory: 'H-Store', eventAction: 'click', eventLabel: event.target.href});\" target='_blank' href='https://horizonapps.ebp.com/Try/?code=10243001FAA'>Accédez</a> à l’abonnement OPEN en le testant gratuitement pendant 30 jours"
+                },
+                {
+                  "innerText":"Ensuite, abonnez-vous à EBP Horizon OPEN depuis votre plateforme, cliquez sur « S’abonner »  en haut à droite"
+                },
+                {
+                  "innerText":"Une fois client OPEN, souscrivez à l’application depuis la plateforme EBP Horizon"
+                }
+            ]
+          }
+        ]
+      }
+
+    ]
+
+}]

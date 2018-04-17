@@ -1,0 +1,37 @@
+[
+
+    {
+        "background": "img/banieres/home/ciel.jpg",
+        "img": "",
+        "faux":"",
+        "title": "AVEC EBP HORIZON,<br> <b>AUTOMATISEZ VOTRE GESTION !</b> <br><span>Devis – Factures – Compta </span>",
+        "ideeRecue":"",
+        "text": "",
+        "special_offer": "<h4><a href=\"abonnement\" onClick=\"ga('send', 'event', {eventCategory: 'Essai gratuit Slider_Home Slide2', eventAction: 'click', eventLabel: event.target.href});\">Essai gratuit</sup></a></h4><div><span>puis &Agrave; partir de  </span><b><span>9,50 €  HT / Mois</span></b><span>Sans engagement</span></div>"
+
+
+  },
+    {
+      "background": "img/banieres/home/slide2_hom.jpg",
+      "img": "",
+      "faux":"",
+      "title": "La <b>collaboration</b> avec <br>votre <b>expert-comptable</b> n’a jamais été aussi simple !</span>",
+      "ideeRecue":"",
+      "text": "",
+      "special_offer": "<h4><a href=\"abonnement\" onClick=\"ga('send', 'event', {eventCategory: 'Essai gratuit Slider_Home Slide3', eventAction: 'click', eventLabel: event.target.href});\">Essai gratuit</a></h4><div><span>puis &Agrave; partir de  </span><b><span>9,50 €  HT / Mois</span></b><span>Sans engagement</span></div>"
+
+  },{
+    "background": "img/banieres/home/fond-Hstore1200x630.jpg",
+    "img": "",
+    "faux":"",
+    "title": "<b>Nouveauté : le H-Store</b> !<br>Catalogue d'applications connectées à votre plateforme de gestion",
+    "ideeRecue":"",
+    "text": "",
+    "special_offer": "<h4><a href=\"H-Store\" onClick=\"ga('send', 'event', {eventCategory: 'Découvrez le H-Store Slider_Home', eventAction: 'click', eventLabel: event.target.href});\">Découvrez le H-Store</a></h4><div><span>Créez un outil qui vous<br> ressemble !</span></div>"
+
+}
+
+
+
+
+]

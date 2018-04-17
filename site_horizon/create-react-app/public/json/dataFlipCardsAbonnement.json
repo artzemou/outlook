@@ -1,0 +1,46 @@
+{
+    "flipbox": [
+        {
+            "front": [{
+              "heading":"First à 9 € 50",
+              "body":"",
+              "footer":"",
+              "img": "first"
+              }],
+            "back": [{
+              "heading":"lorem",
+              "body":"lorem",
+              "footer":""
+              }]
+
+        },
+        {
+            "front": [{
+              "heading":"First + à 19 € 50",
+              "body":"",
+              "footer":"",
+              "img": "firstPlus"
+              }],
+            "back": [{
+              "heading":"",
+              "body":"",
+              "footer":""
+              }]
+
+        },
+        {
+            "front": [{
+              "heading":"Open à 29 € 50",
+              "body":"",
+              "footer":"",
+              "img": "open"
+              }],
+            "back": [{
+              "heading":"",
+              "body":"",
+              "footer":""
+              }]
+
+        }
+    ]
+}

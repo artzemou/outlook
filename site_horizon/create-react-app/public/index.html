@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <link rel="apple-touch-icon" sizes="57x57" href="%PUBLIC_URL%/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="%PUBLIC_URL%/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="%PUBLIC_URL%/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="%PUBLIC_URL%/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="%PUBLIC_URL%/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="%PUBLIC_URL%/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="%PUBLIC_URL%/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="%PUBLIC_URL%/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="%PUBLIC_URL%/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="%PUBLIC_URL%/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/favicon/favicon-16x16.png">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="%PUBLIC_URL%/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+    <meta name="description" content="Gérez votre entreprise avec la solution en ligne EBP Horizon : gestion de devis et factures, comptabilité automatisée" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/favicon/manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+    <title>Logiciel de gestion et comptabilité en ligne - EBP Horizon</title>
+    <script src="https://use.fontawesome.com/fa098f07e9.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <style>
+        .SEO_content{
+          display:none;
+        }
+        body{
+          background: #e0e0e0;
+        }
+        .modal, .modal-backdrop{
+          display:none;
+        }
+        .loader-container {
+            position: fixed;
+            z-index: 999999999999999;
+            left: 0;
+            min-width: 100%;
+            bottom: 0;
+            top: 0;
+            padding: 1em;
+            background: #e0e0e0;
+            min-height: 100vh;
+            opacity: 1
+        }
+
+        .loader {
+            width: 78px;
+            height: 78px;
+            margin: 30vh auto;
+            font-size: 20px;
+            color: #193f5e;
+            animation: container-rotate 1568ms linear infinite
+        }
+
+        .loader-spinner {
+            height: 100%;
+            animation: spinner-rotate 5332ms cubic-bezier(.4, 0, .2, 1) infinite both
+        }
+
+        .loader-component {
+            float: left;
+            width: 50%;
+            height: 100%;
+            overflow: hidden
+        }
+
+        .loader-component:last-child {
+            transform: rotateY(180deg) translateX(1px)
+        }
+
+        .loader .half-circle {
+            width: 200%;
+            height: 100%;
+            border-radius: 50%;
+            box-sizing: border-box;
+            border: .2em solid currentColor;
+            border-bottom-color: transparent;
+            border-right-color: transparent;
+            animation: half-rotate 1333ms cubic-bezier(.4, 0, .2, 1) infinite both
+        }
+
+        @keyframes container-rotate {
+            100% {
+                transform: rotateZ(360deg)
+            }
+        }
+
+        @keyframes spinner-rotate {
+            12.5% {
+                transform: rotate(135deg)
+            }
+            25% {
+                transform: rotate(270deg)
+            }
+            37.5% {
+                transform: rotate(405deg)
+            }
+            50% {
+                transform: rotate(540deg)
+            }
+            62.5% {
+                transform: rotate(675deg)
+            }
+            75% {
+                transform: rotate(810deg)
+            }
+            87.5% {
+                transform: rotate(945deg)
+            }
+            100% {
+                transform: rotate(1080deg)
+            }
+        }
+
+        @keyframes half-rotate {
+            0% {
+                transform: rotateZ(130deg)
+            }
+            50% {
+                transform: rotateZ(-5deg)
+            }
+            100% {
+                transform: rotateZ(130deg)
+            }
+        }
+    </style>
+
+    <script>
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)
+      [0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-873612-18', 'auto') ;
+      //ga('create', 'UA-67609565-5', 'auto') ;
+
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app :).
+    </noscript>
+    <div id="root">
+
+    </div>
+    <div class="modal-backdrop"></div>
+			<div class="modal">
+				<div class="modal-body">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <div id="modal"></div>
+					</div>
+				</div>
+			</div>
+      <script>
+      var _zbo, url;
+
+      _zbo = _zbo || {register: function(ev,d){ this[ev] = this[ev] || []; this[ev].push(d); }};
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+         g.async = true; g.src='https://dpm.zebestof.com/1961/tag.js';
+         s.parentNode.insertBefore(g,s);}(document,'script'));
+
+          url = window.location.pathname.replace('/','')
+          if (url === '') url = 'home'
+          else url = 'view'
+        _zbo.register(url);
+
+      </script>
+
+
+  </body>
+</html>

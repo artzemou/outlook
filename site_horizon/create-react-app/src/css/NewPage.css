@@ -1,0 +1,45 @@
+.newPage h1{
+  background: #f8f8f8;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  padding: 1rem;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+.newPage h1.animated{
+    animation-name: aminWidth;
+    animation-duration: .4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.newPage  section{
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+.newPage  article{
+  background: #f8f8f8;
+  padding: 1rem;
+  margin-bottom: 18.760px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  width: 100% !important;
+  cursor: pointer;
+}
+
+.newPage  article.animated{
+  animation-name: aminWidth;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes aminWidth {
+  0% {
+  }
+
+  100% {
+    font-size: 2.3em
+
+  }
+
+}

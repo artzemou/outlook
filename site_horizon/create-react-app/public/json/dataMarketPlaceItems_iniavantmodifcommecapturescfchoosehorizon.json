@@ -1,0 +1,847 @@
+[{
+    "<!--": "*********************************************************************",
+    "title":"EBP Horizon",
+    "description":"Plate forme de facturation et de comptabilité connectée",
+    "connected":true,
+    "src":"img/marketplace/ebp-horizon.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+                {
+                  "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+                },
+                {
+                  "innerText":"Par mail : info.fr@ebp.com"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"EBP<br/>Virement direct",
+    "description":"Payez vos fournisseurs par virement direct",
+    "connected":false,
+    "src":"img/marketplace/ebp.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : info.fr@ebp.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"CREAN SOFT",
+    "description":"Pour relancer vos clients",
+    "connected":false,
+    "src":"img/marketplace/cs.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : info.fr@ebp.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"GOCARDLESS",
+    "description":"Pour prélever vos clients",
+    "connected":false,
+    "src":"img/marketplace/go-cardless.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : info.fr@ebp.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"ANYTIME",
+    "description":"Pour saisir les notes de frais de vos salariés",
+    "connected":false,
+    "src":"img/marketplace/anytime.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : info.fr@ebp.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+},{
+    "<!--": "*********************************************************************",
+    "title":"FEC-EXPERT",
+    "description":"Pour contrôler le fichier des Écritures Comptables",
+    "connected":false,
+    "src":"img/marketplace/FCE-expert.png",
+    "blurb":[
+      {
+        "className":"what",
+        "title":"EBP Horizon c'est quoi ?",
+        "domElements":[
+          {
+            "className":"item_descriptions",
+            "element":[
+              {
+                "title":"Gérez simplement vos fournisseurs",
+                "innerText":"Importez automatiquement vos factures fournisseur, aucune saisie à effectuer. Votre compte fournisseur, vos factures s’intègrent automatiquement."
+              },
+              {
+                "title":"Déclarez votre TVA en quelques clics",
+                "innerText":"La gestion..."
+              },
+              {
+                "title":"Accédez à un back office complet de comptabilité",
+                "innerText":"Accéder à l’ensemble des fonctionnalités comptables de la plateforme, gérez ainsi vos différents paramètres et éditez vos états comptables créés automatiquement"
+              },
+              {
+                "title":"Faites-vous accompagner dans la gestion de votre enteprise",
+                "innerText":"EBP Horizon est une plateforme de gestion intelligente : Hector, votre assistant virtuel, répond à vos questions 24h/24, 7j/7. Il travaillera pour vous !"
+              }
+            ]
+          },
+          {
+            "className":"item__captures",
+            "element":[
+              {
+                "src":"img/capture/automatisee/Automatisation.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"img/capture/automatisee/Automatisation-2.jpg"
+              },
+              {
+                "src":"https://www.dailymotion.com/embed/video/x50a2mr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Les avantages d'EBP horizon",
+        "className":"benefit",
+        "domElements":[
+          {
+            "element":[
+              {
+                "picto":"img/marketplace/pictos/automatisee.png",
+                "innerText":"Automatisée"
+              },
+              {
+                "picto":"img/marketplace/pictos/collaborative.png",
+                "innerText":"Collaborative"
+              },
+              {
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Mobilité"
+              },
+              {
+                "picto":"img/marketplace/pictos/full-web.png",
+                "innerText":"Solution Full web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Prix",
+        "className":"price",
+        "domElements":[
+          {
+            "element":[
+              {
+                "className":"description",
+                "innerText":"Profitez d’une offre exceptionnelle jusqu’au 18 Mars 2018 : Jusqu’à 3 mois offerts !"
+              },
+              {
+                "className":"CTA__btn",
+                "innerText":"29,50 € HT"
+              },
+              {
+                "className":"picto",
+                "picto":"img/marketplace/pictos/mobilite.png",
+                "innerText":"Sans engagement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Qui sommes nous ?",
+        "className":"qui",
+        "domElements":[
+          {
+            "element":[
+              {
+                "innerText":"Éditeur français et acteur historique sur le marché des logiciels de gestion, nous accompagnons les solutions couvrent les fonctions clés de l’entreprise : la comptabilité, la gestion commerciale et la paye. Nous accompagnons plus de 500 000 entreprises, certaines depuis leur création et tout au long de leur développement."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Notre support client",
+        "className":"support",
+        "domElements":[
+          {
+            "title":"Contactez l’Assistance téléphonique EBP :",
+            "element":[
+              {
+                "innerText":"Par téléphone : 01 34 94 80 20. Service accessible de 9h à 18h30 (18h le vendredi) - horaires modulables selon l'activité)"
+              },
+              {
+                "innerText":"Par mail : info.fr@ebp.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+
+}]
